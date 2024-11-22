@@ -12,14 +12,14 @@ To determine the answer to the client’s business question, I followed these st
 
 2. Data cleaning : Cleaned the data by:
 
--removing rows that have values which are missing,
--changing the data type of some values within a column, and
--removing columns which are not relevant to this task.
+ -removing rows that have values which are missing,
+ -changing the data type of some values within a column, and
+ -removing columns which are not relevant to this task.
 
 3. Data modelling : Used VLOOKUP, COUNTIF, SUMIF, INDEX & MATCH functions to merge datasets to prepare the data for analysis.
    
-   1. Created a final data set by merging your three tables together
-   2. Figured out the Top 5 performing categories
+    Created a final data set by merging your three tables together
+    Figured out the Top 5 performing categories
 
 # Task 3 : Data Visualization & Storytelling      
 Chose the data visualizations that best support the story I want to tell to the client. Created a PowerPoint presentation that reports on the client’s content performance.
