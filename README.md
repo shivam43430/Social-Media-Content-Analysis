@@ -32,7 +32,7 @@ Chose the data visualizations that best support the story I want to tell to the 
 There are also some other interesting insights that we want to share. For example:
 
  1.Animals and Science are the two most popular categories.
- 2. 16 unique categories have been found.
+ 2.16 unique categories have been found.
  3.Highest Reactions in 'Animals' Category: 1897
  4.Highest number of posts in the Month of ‘May’
  5.Sentiment Analysis: Positive Reactions: More than 56% and Negative and Neutral Reactions: Combined rest
