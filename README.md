@@ -12,9 +12,9 @@ To determine the answer to the client’s business question, I followed these st
 
 2. Data cleaning : Cleaned the data by:
 
-  1.removing rows that have values which are missing,
-  2.changing the data type of some values within a column, and
-  3.removing columns which are not relevant to this task.
+    1.removing rows that have values which are missing,
+    2.changing the data type of some values within a column, and
+    3.removing columns which are not relevant to this task.
 
 3. Data modelling : Used VLOOKUP, COUNTIF, SUMIF, INDEX & MATCH functions to merge datasets to prepare the data for analysis.
    
