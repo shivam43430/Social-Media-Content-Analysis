@@ -1,4 +1,4 @@
-# Data Analytics and Visualization (Accenture) 
+# Accenture Data Analytics and Visualization
 
 A hypothetical client called Social Buzz wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
@@ -17,9 +17,8 @@ To determine the answer to the client’s business question, I followed these st
     3.removing columns which are not relevant to this task.
 
 3. Data modelling : Used VLOOKUP, COUNTIF, SUMIF, INDEX & MATCH functions to merge datasets to prepare the data for analysis.
-   
-    1.Created a final data set by merging your three tables together
-    2.Figured out the Top 5 performing categories
+   1.Created a final data set by merging your three tables together
+   2.Figured out the Top 5 performing categories
 
 # Task 3 : Data Visualization & Storytelling      
 Chose the data visualizations that best support the story I want to tell to the client. Created a PowerPoint presentation that reports on the client’s content performance.
