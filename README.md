@@ -4,6 +4,7 @@ A hypothetical client called Social Buzz wanted to see “An analysis of their c
 
 # Task 1 : Project Understanding
 (Raw Data folder)
+
 Read and analyzed a client project brief to understand the client and business problem, identified the requirements that need to be delivered, and identified which tasks I need to focus on as a data analyst.
  
 # Task 2 : Data Cleaning & Modeling
