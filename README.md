@@ -2,7 +2,8 @@
 
 A hypothetical client called Social Buzz wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
-## Task 1 : Project Understanding ###(Raw Data folder)
+## Task 1 : Project Understanding
+(Raw Data folder)
 
 Read and analyzed a client project brief to understand the client and business problem, identified the requirements that need to be delivered, and identified which tasks I need to focus on as a data analyst.
  
@@ -15,11 +16,14 @@ To determine the answer to the client’s business question, I followed these st
 
 2. Data cleaning : Cleaned the data by:
 
-    1.removing rows that have values which are missing,
-    2.changing the data type of some values within a column, and
-    3.removing columns which are not relevant to this task.
-
+'''
+   ***- removing rows that have values which are missing,***
+   ***- changing the data type of some values within a column, and***
+   ***- removing columns which are not relevant to this task.***
+    
+'''
 3. Data modelling : Used VLOOKUP, COUNTIF, SUMIF, INDEX & MATCH functions to merge datasets to prepare the data for analysis.
+
    1.Created a final data set by merging your three tables together
    2.Figured out the Top 5 performing categories
 
